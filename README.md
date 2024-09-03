@@ -531,5 +531,5 @@ Note that **you don't need to execute the functions yourself**, the tests are re
 <br>
 
   
-
-**Happy coding!** :heart:
+<!-- 
+**Happy coding!** :heart: -->
