@@ -5,97 +5,40 @@
 # LAB | JS Functions & Arrays
 
   
-
 <br>
 
-  
-
-## Introduction
-
-  
-
+<!-- Introduction
 Manipulating arrays in code is a very common operation. Whether you are creating a total for a shopping cart, grabbing only the first names out of a list of people, or moving a piece on a chessboard, you are probably going to be modifying or manipulating an array in some way.
 
-  
+Requirements
+Fork this repo
 
-## Requirements
+Clone it to your machine
 
-  
-
-- Fork this repo
-
-- Clone it to your machine
-
-  
-  
-  
-
-## Submission
-
-  
-
-- Upon completion, run the following commands:
-
-  
-
-```bash
-
+Submission
+Upon completion, run the following commands:
 git add .
 
 git commit -m "Solved lab"
 
 git push origin master
+Create a Pull Request so that we can check your work.
 
-```
+Instructions
+You will work on the src/functions-and-arrays.js file, which is already loaded in the index.html file.
 
-  
+To run the JavaScript code open the index.html file use the Live Server VSCode extension.
 
-- Create a Pull Request so that we can check your work.
-
-  
-
-<br>
-
-  
-  
-  
-
-## Instructions
-
-  
-
-You will work on the `src/functions-and-arrays.js` file, which is already loaded in the `index.html` file.
-
-  
-
-To run the JavaScript code open the `index.html` file use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) VSCode extension.
-
-  
-
-To see output of your JavaScript code open the [Console in the Developer Tools](https://developer.chrome.com/docs/devtools/open/#console).
-
-  
+To see output of your JavaScript code open the Console in the Developer Tools.
 
 While following the instructions for each iteration, make sure to carefully read the instructions to fully understand the task requirements. Do not rush. You should take your time to carefully read every iteration.
 
-  
-  
-  
-
-### Note about tests
-
-  
-
+Note about tests
 This LAB, along with some of the labs you will be working on during the bootcamp, is equipped with unit tests to provide automated feedback on your lab progress.
 
-  
+After you’ve completed the basic iterations, go to the "Test Your Code" section at the bottom. There you'll be asked to install the testing dependencies and run the tests to check how many tests your code is passing. -->
 
-**After you’ve completed the basic iterations**, go to the **"Test Your Code"** section at the bottom. There you'll be asked to install the testing dependencies and run the tests to check how many tests your code is passing.
-
-  
-  
-  
-
+Completed the below tasks
 <br>
 
   
